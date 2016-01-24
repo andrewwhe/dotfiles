@@ -1,7 +1,8 @@
 execute pathogen#infect()
 
 set t_Co=256
-"colorscheme PaperColor"
+set background=dark
+colorscheme solarized
 
 set laststatus=2
 set ttimeoutlen=50
