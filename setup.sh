@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Move files to ~
-#cp .vimrc ~/.vimrc
-#cp .bashrc ~/.bashrc
+cp .vimrc ~/.vimrc
+cp .bashrc ~/.bashrc
 
 # Install pathogen
-#mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
 # pathogen plugins
 #   airline
